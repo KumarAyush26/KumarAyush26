@@ -1,6 +1,6 @@
 <!-- Banner: replace with your own banner image, or use a Canva-made one -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/58e6a0?text=KUMAR+AYUSH+%7C+GAME+DEV+%26+WEB+DEV" alt="Banner"/>
+  <img src="banner.png" alt="Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumar Ayush</h1>
