@@ -1,3 +1,4 @@
+<!-- Banner: replace with your own banner image, or use a Canva-made one -->
 <p align="center">
   <img src="banner.png" alt="Banner"/>
 </p>
@@ -46,7 +47,7 @@
 
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KumarAyush26&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=KumarAyush26&theme=dark&hide_border=true&background=0D1117&ring=58E6A0&fire=58E6A0&currStreakLabel=58E6A0" alt="GitHub Stats" />
 </p>
 
 <p align="center">
