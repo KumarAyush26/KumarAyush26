@@ -1,4 +1,3 @@
-<!-- Banner: replace with your own banner image, or use a Canva-made one -->
 <p align="center">
   <img src="banner.png" alt="Banner"/>
 </p>
@@ -43,10 +42,10 @@
 
 <h3>📊 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KumarAyush26&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KumarAyush26&theme=radical" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KumarAyush26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58E6A0&icon_color=58E6A0&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=KumarAyush26&hide_border=true&background=0D1117&ring=58E6A0&fire=58E6A0&currStreakLabel=58E6A0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAyush26&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAyush26&layout=compact&hide_border=true&bg_color=0D1117&title_color=58E6A0&text_color=C9D1D9" alt="Top Languages" />
 </p>
