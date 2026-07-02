@@ -1,52 +1,111 @@
-<!-- Banner: replace with your own banner image, or use a Canva-made one -->
+<!-- ========================= BANNER ========================= -->
+
 <p align="center">
-  <img src="banner.png" alt="Banner"/>
+  <img src="banner.png" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumar Ayush</h1>
-<h3 align="center">Game Developer (Unity/C#) & Front-End Web Developer (React)</h3>
+
+<h3 align="center">
+Game Developer (Unity/C#) & Front-End Web Developer (React)
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KumarAyush26&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=KumarAyush26&label=Profile%20Views&color=58E6A0&style=flat"/>
 </p>
 
-- 🔭 I'm currently working on **3D & 2D games in Unity** (zombie shooter, platformer, space game) and **responsive web apps with React, Vite & Tailwind CSS**
-- 🤝 I'm looking to collaborate on **Unity/C# game projects** and **React-based front-end applications**
-- 🌱 I'm currently learning **Advanced Game AI (NavMesh, FSM), Blender environment design, and AWS**
-- 💬 Ask me about **Unity, C#, C++, Blender, React, JavaScript, and DSA**
-- 📫 How to reach me: **ayushrnc04@gmail.com**
-- ⚡ Fun fact: I switch between building zombie-infested 3D worlds in Blender and pixel-perfect React components — sometimes in the same week!
+---
 
-<h3>🔗 Connect with me</h3>
-<p>
-  <a href="https://github.com/KumarAyush26" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Ayush0804" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-</p>
+## 🚀 About Me
 
-<h3>🛠️ Languages and Tools</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" title="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" title="Tailwind CSS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="40" title="Unity"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg" width="40" title="Blender"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40" title="Visual Studio"/>
-</p>
+🔭 Currently working on 3D & 2D games in Unity (Zombie Shooter, Platformer, Space Game)
 
-<h3>📊 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=KumarAyush26&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58E6A0&icon_color=58E6A0&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=KumarAyush26&hide_border=true&background=0D1117&ring=58E6A0&fire=58E6A0&currStreakLabel=58E6A0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" height="165"/>
-</p>
+🤝 Looking to collaborate on Unity/C# game projects and React applications
+
+🌱 Learning Advanced Game AI, Unreal Engine, Blender Environment Design and AWS
+
+💬 Ask me about Unity, Unreal Engine, C#, C++, Blender, React, JavaScript and DSA
+
+📫 Reach me at **ayushrnc04@gmail.com**
+
+⚡ Fun fact: I switch between building zombie-infested worlds and pixel-perfect React components.
+
+---
+
+<h2 align="center">🔗 Connect with Me</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAyush26&layout=compact&hide_border=true&bg_color=0D1117&title_color=58E6A0&text_color=C9D1D9" alt="Top Languages" />
+
+<a href="https://github.com/KumarAyush26">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://leetcode.com/u/Ayush0804/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
+</a>
+
+</p>
+
+---
+
+<h2 align="center">🛠 Languages & Tools</h2>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,py,js,react,html,css,tailwind,nodejs,unity,blender,git,github,vscode"/>
+
+<img src="https://cdn.simpleicons.org/unrealengine/white" width="48"/>
+
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img
+src="https://github-contributor-stats.vercel.app/api?username=KumarAyush26&limit=5&theme=dark&combine_all_yearly_contributions=true"
+/>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=KumarAyush26&theme=dark&hide_border=true&background=0D1117&ring=58E6A0&fire=58E6A0&currStreakLabel=58E6A0&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9"
+/>
+
+</p>
+
+---
+
+<h2 align="center">💻 Top Languages</h2>
+
+<p align="center">
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=KumarAyush26&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58E6A0&text_color=C9D1D9"
+/>
+
+</p>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KumarAyush26&bg_color=0D1117&color=58E6A0&line=58E6A0&point=FFFFFF&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=58E6A0&section=footer"/>
+
 </p>
