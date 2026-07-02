@@ -1,4 +1,3 @@
-<!-- Banner: replace with your own banner image, or use a Canva-made one -->
 <p align="center">
   <img src="banner.png" alt="Banner"/>
 </p>
@@ -14,7 +13,8 @@
 - 🤝 I'm looking to collaborate on **Unity/C# game projects** and **React-based front-end applications**
 - 🌱 I'm currently learning **Advanced Game AI (NavMesh, FSM), Blender environment design, and AWS**
 - 💬 Ask me about **Unity, C#, C++, Blender, React, JavaScript, and DSA**
-- 📫 How to reach me: **ayushrnc04@gmail.com**
+- 📫 How to reach me: **ayushrnc04@gmail.com** &nbsp; 🌐 LinkedIn | GitHub
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1_fBbiKUVPZm_6mfWKUeiKt2HcBgCV7NF/view?usp=sharing](https://drive.google.com/file/d/1_fBbiKUVPZm_6mfWKUeiKt2HcBgCV7NF/view?usp=sharing)
 - ⚡ Fun fact: I switch between building zombie-infested 3D worlds in Blender and pixel-perfect React components — sometimes in the same week!
 
 <h3 align="center">🔗 Connect with me</h3>
